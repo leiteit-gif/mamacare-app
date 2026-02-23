@@ -22,7 +22,7 @@
         "buildType": "apk",
         "gradleCommand": ":app:assembleRelease",
         "env": {
-          "GRADLE_OPTS": "-Xmx4096m -XX:MaxPermSize=512m"
+          
         }
       }
     }
