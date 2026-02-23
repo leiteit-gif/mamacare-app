@@ -76,3 +76,9 @@
 - [x] Adicionar mais exercícios ao banco de dados (adicionados 10 exercícios)
 - [x] Adicionar mais alimentos ao banco de dados (adicionados 12 alimentos)
 - [x] Mudar cor do nome do aplicativo na Home para cor primária
+
+
+## Fase 12: Correção de Erro de Compilação Android
+- [x] Corrigir erro de Gradle do React Native Gesture Handler
+- [x] Atualizar configurações do build.gradle
+- [x] Testar compilação para Android
