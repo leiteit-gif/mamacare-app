@@ -52,7 +52,7 @@ export default function HomeScreen() {
         <View className="gap-6">
           {/* Saudação */}
           <View className="gap-2">
-            <Text className="text-3xl font-bold text-foreground">
+            <Text className="text-3xl font-bold" style={{ color: colors.primary }}>
               Olá, {userProfile?.name || "Mamãe"}!
             </Text>
             <Text className="text-sm text-muted">
@@ -80,7 +80,9 @@ export default function HomeScreen() {
           <View className="gap-3">
             {/* Card Exercícios */}
             <Pressable
-              onPress={() => {}}
+              onPress={() => {
+                // Navegar para aba de exercícios
+              }}
               style={({ pressed }) => [
                 {
                   opacity: pressed ? 0.7 : 1,
@@ -110,7 +112,9 @@ export default function HomeScreen() {
 
             {/* Card Nutrição */}
             <Pressable
-              onPress={() => {}}
+              onPress={() => {
+                // Navegar para aba de nutrição
+              }}
               style={({ pressed }) => [
                 {
                   opacity: pressed ? 0.7 : 1,
@@ -146,7 +150,9 @@ export default function HomeScreen() {
 
             {/* Card Bem-Estar */}
             <Pressable
-              onPress={() => {}}
+              onPress={() => {
+                // Navegar para aba de bem-estar
+              }}
               style={({ pressed }) => [
                 {
                   opacity: pressed ? 0.7 : 1,

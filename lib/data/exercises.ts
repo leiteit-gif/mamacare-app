@@ -304,4 +304,243 @@ export const exercises: Exercise[] = [
       "Pare se sentir dor",
     ],
   },
+  // Exercícios adicionais para Semana 1-2
+  {
+    id: "ex-013",
+    name: "Alongamento de Glúteos",
+    phase: "week1-2",
+    duration: 5,
+    description: "Alongamento suave para aliviar tensão nos glúteos.",
+    instructions: [
+      "Deite-se de costas com os joelhos dobrados",
+      "Cruze um pé sobre o joelho oposto",
+      "Puxe a coxa em direção ao peito",
+      "Mantenha por 20-30 segundos",
+      "Repita 3 vezes de cada lado",
+    ],
+    benefits: [
+      "Alivia tensão nos glúteos",
+      "Reduz dor nas costas",
+      "Melhora a flexibilidade",
+    ],
+    safetyWarnings: [
+      "Não force o alongamento",
+      "Pare se sentir dor",
+    ],
+  },
+  {
+    id: "ex-014",
+    name: "Rotação de Ombros",
+    phase: "week1-2",
+    duration: 3,
+    description: "Exercício para mobilidade de ombros.",
+    instructions: [
+      "Fique em pé com os braços ao lado do corpo",
+      "Levante os ombros em direção às orelhas",
+      "Faça movimentos circulares para trás",
+      "Repita 10 vezes para trás, depois para frente",
+    ],
+    benefits: [
+      "Melhora a mobilidade dos ombros",
+      "Reduz tensão acumulada",
+      "Melhora a postura",
+    ],
+    safetyWarnings: [
+      "Faça movimentos suaves",
+      "Não force as rotações",
+    ],
+  },
+
+  // Exercícios adicionais para Semana 3-4
+  {
+    id: "ex-015",
+    name: "Elevação de Perna Deitada",
+    phase: "week3-4",
+    duration: 8,
+    description: "Exercício para fortalecer as pernas sem impacto.",
+    instructions: [
+      "Deite-se de lado com a cabeça apoiada",
+      "Levante a perna superior lentamente",
+      "Mantenha por 2 segundos",
+      "Abaixe lentamente",
+      "Repita 12-15 vezes de cada lado, 2-3 vezes por semana",
+    ],
+    benefits: [
+      "Fortalece as pernas e glúteos",
+      "Melhora o equilíbrio",
+      "Baixo impacto nas articulações",
+    ],
+    safetyWarnings: [
+      "Mantenha o core contraído",
+      "Não levante muito alto",
+    ],
+  },
+  {
+    id: "ex-016",
+    name: "Flexão de Quadril",
+    phase: "week3-4",
+    duration: 5,
+    description: "Alongamento para flexibilidade de quadril.",
+    instructions: [
+      "Sente-se no chão com as pernas estendidas",
+      "Dobre uma perna e coloque o pé no chão",
+      "Incline o corpo em direção à perna estendida",
+      "Mantenha por 20-30 segundos",
+      "Repita 3 vezes de cada lado",
+    ],
+    benefits: [
+      "Melhora a flexibilidade de quadril",
+      "Reduz tensão nas costas",
+      "Facilita a recuperação",
+    ],
+    safetyWarnings: [
+      "Não force o alongamento",
+      "Respire profundamente",
+    ],
+  },
+
+  // Exercícios adicionais para Semana 5-8
+  {
+    id: "ex-017",
+    name: "Agachamento com Parede",
+    phase: "week5-8",
+    duration: 10,
+    description: "Agachamento com apoio na parede para maior segurança.",
+    instructions: [
+      "Fique em pé com as costas contra a parede",
+      "Deslize para baixo até formar um ângulo de 90 graus",
+      "Mantenha por 10-15 segundos",
+      "Deslize para cima",
+      "Repita 10-12 vezes, 2-3 vezes por semana",
+    ],
+    benefits: [
+      "Fortalece as pernas e core",
+      "Melhora a resistência",
+      "Seguro com apoio",
+    ],
+    safetyWarnings: [
+      "Não desça muito fundo",
+      "Mantenha as costas na parede",
+    ],
+  },
+  {
+    id: "ex-018",
+    name: "Levantamento de Braço Lateral",
+    phase: "week5-8",
+    duration: 8,
+    description: "Exercício para fortalecer ombros e braços.",
+    instructions: [
+      "Fique em pé com os braços ao lado do corpo",
+      "Levante os braços lateralmente até a altura do ombro",
+      "Mantenha por 2 segundos",
+      "Abaixe lentamente",
+      "Repita 12-15 vezes, 2-3 vezes por semana",
+    ],
+    benefits: [
+      "Fortalece ombros e braços",
+      "Melhora a postura",
+      "Aumenta a força funcional",
+    ],
+    safetyWarnings: [
+      "Não levante acima do ombro",
+      "Mantenha os movimentos controlados",
+    ],
+  },
+
+  // Exercícios adicionais para Semana 9-12
+  {
+    id: "ex-019",
+    name: "Agachamento com Halteres",
+    phase: "week9-12",
+    duration: 12,
+    description: "Agachamento com peso para maior intensidade.",
+    instructions: [
+      "Fique em pé com halteres leves nas mãos",
+      "Abaixe como se fosse sentar",
+      "Mantenha por 2 segundos",
+      "Levante-se",
+      "Repita 12-15 vezes, 3-4 vezes por semana",
+    ],
+    benefits: [
+      "Fortalece pernas, glúteos e core",
+      "Aumenta a resistência",
+      "Melhora o equilíbrio",
+    ],
+    safetyWarnings: [
+      "Use pesos leves",
+      "Mantenha a forma correta",
+    ],
+  },
+  {
+    id: "ex-020",
+    name: "Prancha Completa",
+    phase: "week9-12",
+    duration: 10,
+    description: "Prancha tradicional para máximo fortalecimento de core.",
+    instructions: [
+      "Coloque-se em posição de prancha com os pés juntos",
+      "Mantenha o corpo em linha reta",
+      "Contraia o core",
+      "Mantenha por 20-30 segundos",
+      "Descanse e repita 3-4 vezes, 3-4 vezes por semana",
+    ],
+    benefits: [
+      "Fortalece o core profundo",
+      "Melhora a postura",
+      "Aumenta a resistência",
+    ],
+    safetyWarnings: [
+      "Não deixe os quadris caírem",
+      "Respire normalmente",
+    ],
+  },
+
+  // Exercícios adicionais para Pós-12 semanas
+  {
+    id: "ex-021",
+    name: "Burpee Modificado",
+    phase: "post12",
+    duration: 15,
+    description: "Exercício de corpo inteiro com modificação.",
+    instructions: [
+      "Fique em pé",
+      "Agache-se com as mãos no chão",
+      "Pule ou caminhe para trás em posição de prancha",
+      "Retorne para agachamento",
+      "Levante-se",
+      "Repita 10-12 vezes, 3-4 vezes por semana",
+    ],
+    benefits: [
+      "Trabalha corpo inteiro",
+      "Melhora a resistência cardiovascular",
+      "Queima calorias",
+    ],
+    safetyWarnings: [
+      "Comece lentamente",
+      "Pare se sentir tontura",
+    ],
+  },
+  {
+    id: "ex-022",
+    name: "Polichinelo",
+    phase: "post12",
+    duration: 10,
+    description: "Exercício cardiovascular clássico.",
+    instructions: [
+      "Fique em pé com os pés juntos",
+      "Pule enquanto afasta os pés e levanta os braços",
+      "Retorne à posição inicial",
+      "Mantenha um ritmo constante",
+      "Faça 30-60 segundos, 3-4 vezes por semana",
+    ],
+    benefits: [
+      "Melhora a resistência cardiovascular",
+      "Queima calorias",
+      "Aumenta a frequência cardíaca",
+    ],
+    safetyWarnings: [
+      "Use sapatos de suporte",
+      "Comece lentamente",
+    ],
+  },
 ];

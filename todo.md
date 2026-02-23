@@ -69,3 +69,10 @@
 - [ ] Preparar instruções de uso
 - [ ] Documentar features implementadas
 - [ ] Entregar ao usuário
+
+
+## Fase 11: Correções e Melhorias (Solicitadas pelo Usuário)
+- [x] Revisar e corrigir erros nos botões da Home
+- [x] Adicionar mais exercícios ao banco de dados (adicionados 10 exercícios)
+- [x] Adicionar mais alimentos ao banco de dados (adicionados 12 alimentos)
+- [x] Mudar cor do nome do aplicativo na Home para cor primária
