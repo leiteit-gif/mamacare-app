@@ -43,23 +43,23 @@
 - [x] Integrar persistência de entradas do diário e humor
 
 ## Fase 7: Tela de Gráficos e Progresso
-- [ ] Criar tela consolidada de gráficos
-- [ ] Implementar gráfico de evolução de peso (últimas 4 semanas)
-- [ ] Implementar gráfico de constância de exercícios
-- [ ] Implementar gráfico de bem-estar emocional
+- [x] Criar tela consolidada de gráficos
+- [x] Implementar gráfico de evolução de peso (últimas 4 semanas)
+- [x] Implementar gráfico de constância de exercícios
+- [x] Implementar gráfico de bem-estar emocional
 - [ ] Adicionar estatísticas e insights
 
 ## Fase 8: Seção de Perfil
-- [ ] Criar tela de perfil com informações da usuária
-- [ ] Adicionar campo para data do parto/semana de pós-parto
+- [x] Criar tela de perfil com informações da usuária
+- [x] Adicionar campo para data do parto/semana de pós-parto
 - [ ] Implementar configurações de notificações
 - [ ] Adicionar opção de tema (claro/escuro)
 - [ ] Criar seção de FAQ e dicas de segurança
 
 ## Fase 9: Polimento e Testes
-- [ ] Revisar design visual em todas as telas
-- [ ] Testar fluxos de usuário end-to-end
-- [ ] Ajustar cores, tipografia e espaçamento
+- [x] Revisar design visual em todas as telas
+- [x] Testar fluxos de usuário end-to-end
+- [x] Ajustar cores, tipografia e espaçamento
 - [ ] Implementar feedback háptico em ações principais
 - [ ] Testar acessibilidade (VoiceOver, TalkBack)
 - [ ] Corrigir bugs e inconsistências
