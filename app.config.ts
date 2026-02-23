@@ -28,11 +28,11 @@ const schemeFromBundleId = `manus${timestamp}`;
 
 const env = {
   // App branding - update these values directly (do not use env vars)
-  appName: "MamaCare - Recuperação Pós-Parto",
+  appName: "MamaCare",
   appSlug: "mamacare-app",
   // S3 URL of the app logo - set this to the URL returned by generate_image when creating custom logo
   // Leave empty to use the default icon from assets/images/icon.png
-  logoUrl: "",
+  logoUrl: "https://private-us-east-1.manuscdn.com/sessionFile/x1hb2zaasooo8BaULlmG0S/sandbox/Zr98uPETE776CzLhLP8yUp-img-1_1771866099000_na1fn_aWNvbg.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveDFoYjJ6YWFzb29vOEJhVUxsbUcwUy9zYW5kYm94L1pyOTh1UEVURTc3NkN6TGhMUDh5VXAtaW1nLTFfMTc3MTg2NjA5OTAwMF9uYTFmbl9hV052YmcucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLHdfMTkyMCxoXzE5MjAvZm9ybWF0LHdlYnAvcXVhbGl0eSxxXzgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=QGFebUuzarFxo2neyHn7dVtaMs8q4RmLdvpi6SxarbwDtZUHVh0QKFlOJ6iPMOsmR~HK4N-oIOz4eNqwHyJKOYJzeVA1owwkZ8EFJPsxM1TrA56F8T~69HDaKNTXrEj5h3K~f~PaCG-sxNv2zm7~7tnUdZUXEAQyK79jKJZzwxoOfXesyVMG6iw5GB9SQSvSZlhJ3bCC7mvtjtErU5RemW6~GyelRQdmnOe5yblnEhZcDIAEWE3WHPvzI1Tb98mzaZJNk6PuZucGu~bJIUmaaHQd81B77H3SAysigSIqJ29HoJdGhLcKWb4LJXFl1M7bEJD9aphEC~IJoJoH0~-PnA__",
   scheme: schemeFromBundleId,
   iosBundleId: bundleId,
   androidPackage: bundleId,
